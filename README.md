@@ -6,6 +6,7 @@ This is an example git repository.
 3. Wednesday
 4. Thursday
 5. Friday
+
 ### Monday
 * First day of the week.Mondays aren't fun.
 
