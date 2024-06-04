@@ -26,6 +26,9 @@ This is an example git repository.
 
 * [Monday](#monday)
 * [Tuesday](#tuesday)
+* [Wednesday](#wednesday)
+* [Thursday](#thursday)
+* [Friday](#friday)
 
 ##### Have a good day!
  
