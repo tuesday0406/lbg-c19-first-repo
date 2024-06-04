@@ -23,6 +23,8 @@ This is an example git repository.
 ### Friday
 * Final day of the week. We call it Friyaaay!
 
+Please [Click here](#weekend) to learn more about the weekend.
+
 #### Thank you for reading me. Hope I was insightful.
 
 
