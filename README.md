@@ -23,7 +23,7 @@ This is an example git repository.
 
 #### Thank you for reading me. Hope I was insightful.
 
- ##### Have a good day!
+##### Have a good day!
  
 
 
