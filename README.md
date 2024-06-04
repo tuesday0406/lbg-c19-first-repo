@@ -24,6 +24,9 @@ This is an example git repository.
 
 #### Thank you for reading me. Hope I was insightful.
 
+* [Monday](#monday)
+* [Tuesday](#tuesday)
+
 ##### Have a good day!
  
 
