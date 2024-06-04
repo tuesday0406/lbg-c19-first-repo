@@ -1,11 +1,12 @@
 # LBG-REPO-1
 This is an example git repository.
 ## contents
-1. Monday
-2. Tuesday
-3. Wednesday
-4. Thursday
-5. Friday
+* [Monday](#monday)
+* [Tuesday](#tuesday)
+* [Wednesday](#wednesday)
+* [Thursday](#thursday)
+* [Friday](#friday)
+
 
 ### Monday
 * First day of the week.Mondays aren't fun.
@@ -24,11 +25,6 @@ This is an example git repository.
 
 #### Thank you for reading me. Hope I was insightful.
 
-* [Monday](#monday)
-* [Tuesday](#tuesday)
-* [Wednesday](#wednesday)
-* [Thursday](#thursday)
-* [Friday](#friday)
 
 ##### Have a good day!
  
