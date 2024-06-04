@@ -23,7 +23,7 @@ This is an example git repository.
 ### Friday
 * Final day of the week. We call it Friyaaay!
 
-Please [Click here](#weekend) to learn more about the weekend.
+Please [Click here](#Weekend) to learn more about the weekend.
 
 #### Thank you for reading me. Hope I was insightful.
 
@@ -35,6 +35,12 @@ Please [Click here](#weekend) to learn more about the weekend.
 ### Contents
 * [Saturday](#saturday)
 * [Sunday](#sunday)
+
+#### Saturday
+* Day before the last day of the week. Most loved day of the entire week.
+
+#### Sunday
+* Last day of the week. Kinda have mixed feeling about sunday as Monday comes next.
  
 
 
