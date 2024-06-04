@@ -20,3 +20,10 @@ This is an example git repository.
 
 ### Friday
 * Final day of the week. We call it Friyaaay!
+
+#### Thank you for reading me. Hope I was insightful.
+
+ ##### Have a good day!
+ 
+
+
